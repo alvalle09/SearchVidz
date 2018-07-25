@@ -186,7 +186,7 @@ function getOutput(item) {
     '</div>' + 
     '</div>' +
     '<div class="list-right">' +
-    '<h3><a class="fancybox.iframe" href="http://www.youtube.com/embed/'+videoId+'">"'+title+'</a></h3>' +  //channel Title class is added dynamically 
+    '<h3><a class="fancybox fancybox.iframe" href="http://www.youtube.com/embed/'+videoId+'">"'+title+'</a></h3>' +  //channel Title class is added dynamically 
     '<small>By <span class="cTitle">' + channelTitle + '</span> on ' +videoDate+'</small>' +
     '<p>' + description +'</p>' +
     '</div>' +
